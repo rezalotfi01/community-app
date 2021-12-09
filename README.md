@@ -6,7 +6,7 @@ for this app:
 - Modular Clean Architecture and MVVM approach followed
 - It is heavily implemented by following standard clean architecture principle.
 - Unit testing written for most parts and overall, it has good coverage.
-- [S.O.L.I.D](https://en.wikipedia.org/wiki/SOLID) principle followed for more understandable, flexible and maintainable.
+- [S.O.L.I.D](https://en.wikipedia.org/wiki/SOLID) principle followed for more understandable, flexible and maintainable codes.
 
 
 You can download the installable APK File from this [LINK](/app/release/AppRelease.apk)
@@ -84,7 +84,7 @@ I opted for a dynamic test configuration, so it's possible to inject different c
 * [Mockito-Kotlin][11] for mocking in tests.
 * [MockWebServer][12] for Instrumentation tests.
 * [Stetho][13] A debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
-* [AndroidX Test Library][14] for providing JUnit4 and functions as `memberActivity` in UI tests
+* [AndroidX Test Library][14] for providing Android framework test functions in the tests
 * [Glide][15] Image downloading and caching library
 
 [0]:  https://github.com/Kotlin/kotlinx.coroutines
@@ -97,8 +97,8 @@ I opted for a dynamic test configuration, so it's possible to inject different c
 [7]:  https://github.com/google/dagger
 [8]:  https://github.com/square/retrofit
 [9]:  https://github.com/JakeWharton/timber
-[10]:  https://developer.android.com/training/testing/espresso/
-[11]:  https://github.com/nhaarman/mockito-kotlin
+[10]: https://developer.android.com/training/testing/espresso/
+[11]: https://github.com/nhaarman/mockito-kotlin
 [12]: https://github.com/square/okhttp/tree/master/mockwebserver
 [13]: https://github.com/facebook/stetho
 [14]: https://github.com/android/android-test
