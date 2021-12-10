@@ -51,7 +51,7 @@ The Remote layer handles all communications with remote sources, in our case it 
 
 ### And two extra modules
 * Core: Base classes module (factories, events, etc.)
-* Core-Android-Test: Tests classes module (rules, date builders,etc.)
+* Core-Android-Test: Common Test classes module (i.e. rules)
 
 
 ## Testing
