@@ -50,7 +50,7 @@ This layer's responsibility is to handle the presentation of the User Interface,
 The Remote layer handles all communications with remote sources, in our case it makes a simple API call using a Retrofit interface.
 
 ### And two extra modules
-* Core: Base classes module (factories, events, etc.)
+* Core: Base classes module (factories, custom liveEvent, etc.)
 * Core-Android-Test: Common Test classes module (i.e. rules)
 
 
